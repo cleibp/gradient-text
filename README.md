@@ -25,7 +25,7 @@ Exemplificação de gradiente texto
 ```sh
 .
 ├── README.md
-└── index.html
+├── index.html
 └── style.css
 ```
 
